@@ -1,5 +1,5 @@
 # Technology, Cloud & Cybersecurity Portfolio
-Hi, I am Louisa Jackson. I am an aspiring technology apprentice/professional. This is my learning portfolio covering software development, cloud computing and cybersecurity. I am constantly looking to develop my skills and learn new techniques.
+Hi, I am Louisa Jackson. I am an aspiring technology apprentice. This is my learning portfolio covering software development and cloud computing. I am constantly looking to develop my skills and learn new techniques.
 
 I am currently developing skills in:
 
@@ -9,17 +9,6 @@ I am currently developing skills in:
 - Linux
 - SQL
 - Git & GitHub
-- Cybersecurity
-
-## Career Interests
-
-I am particularly interested in:
-
-- Technology Consulting
-- Technology Risk & GRC
-- Cloud Engineering
-- Cloud Security
-- Software Engineering
 - Cybersecurity
 
 ## Technical Skills
@@ -49,27 +38,16 @@ I am particularly interested in:
 
 ## Projects
 
-### Cloud-based Hotel Booking System
+### Banking Fraud Detection System
 
-**Python | SQL | AWS**
+**Python | Visual Studio Code**
 
-A personal project demonstrating: programming, databases and cloud computing. (coming soon) 
-
-### Secure AWS Application
-
-**AWS | Linux | IAM | VPC**
-
-A personal project demonstrating: cloud infrastructure and security. (coming soon) 
-
-### Cybersecurity Investigation
-
-**Linux | Networking | Cybersecurity**
-
-A simulated cybersecurity investigation: detection, investigation, remediation. (coming soon) 
+Developed an interactive Python program to assess bank transactions for potential fraud using a rule-based risk scoring system. Built reusable Python functions to analyse: transaction amount, time, new devices and distance from home. Instituted conditional statements, variables, loops, lists and user input to process transaction data. Resulted in an explainable risk system that assigned transactions a score from 1-4 whilst providing a reason for each flag and stating if it was a low, medium or high risk transaction.
+Completed this project to develop my understanding of Python after completing my beginner's certification. It heightened my knowledge in how the program can be used to monitor transaction systems and identify unusual patterns.
 
 ## Certifications
 
-- AWS Certified Cloud Practitioner - *In Progress
+- Introduction to Python (Sololearn)
 
 ## Contacts
 
