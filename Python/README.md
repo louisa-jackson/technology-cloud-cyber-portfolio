@@ -4,8 +4,8 @@ I am learning Python to apply technical skills and understand the frameworks of 
 
 ## Topics I am Learning
 
-(add)
+(See 'Projects')
 
-## Projects
+## Certifications
 
-(projects will be added as I develop them.) 
+Introduction to Python - Sololearn 
