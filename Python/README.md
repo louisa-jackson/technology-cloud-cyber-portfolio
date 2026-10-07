@@ -1,6 +1,6 @@
 # Python
 
-I am learning Python as part of my preparation for technology and software engineering apprenticeships.
+I am learning Python to apply technical skills and understand the frameworks of technology.
 
 ## Topics I am Learning
 
