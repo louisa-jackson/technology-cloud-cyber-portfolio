@@ -9,7 +9,7 @@ I am currently developing skills in:
 - SQL
 - GitHub
 
-## Projects
+## Project
 
 ### Banking Fraud Detection System
 
@@ -17,7 +17,13 @@ I am currently developing skills in:
 
 Developed an interactive Python program to assess bank transactions for potential fraud using a rule-based risk scoring system. 
 
-WHY DID I BUILD THIS? Completed this project to develop my understanding of Python after completing my beginner's certification. It heightened my knowledge in how the program can be used to monitor transaction systems and identify unusual patterns.
+WHY DID I BUILD THIS? After completing my Python course, I wanted to apply the coding language to a realistic business problem rather than just completing more exercises that would not have been applicable. Because security and banking are such significant sectors, especially in the growing technology age, I wanted to see how my skills could identify risks and ultimately help a 'business'. Not only did this develop my understanding of the commercial sector, the project also grew my understanding of Python to a much greater level than if I were just to do smaller tasks in it. 
+
+SKILLS DEVELOPED? Problem solving, Attention to detail, Resilience, Python, Commercial awareness, Technology application
+
+CHALLENGES? My biggest challenge was making sure data was inputted correctly to produce the correct results. This involved debugging my code many times which often got frustrating, but I managed to make it work in the end. Arguably, this challenge developed my understanding of the technicalities and complications of technology as a whole, giving me the confidence to do this task again or explain it to someone else. Another challenge was drafting ways to make the system more realistic, as this involved more complicated code. However, through making several notes during my Python course, I managed to have the functions fresh in my mind which made the process much more understandable. 
+
+HOW WOULD I IMPROVE THIS NEXT TIME? Taking advantage of the growth of machine learning into the project would be perfect for identifying complex patterns instead of purely a manual, human input. This could involve training using historical data to provide more context, adapting to a constantly changing business environment. I would also see how the system could be placed in a real commercial environment such as cloud infrastructure. 
 
 ## Certifications
 
